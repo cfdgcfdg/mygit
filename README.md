@@ -1,0 +1,2 @@
+# mygit
+some finished project
